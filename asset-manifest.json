@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codewithmushu.github.io/static/css/main.825cd7ef.css",
+    "main.js": "/codewithmushu.github.io/static/js/main.509ad676.js",
+    "index.html": "/codewithmushu.github.io/index.html",
+    "main.825cd7ef.css.map": "/codewithmushu.github.io/static/css/main.825cd7ef.css.map",
+    "main.509ad676.js.map": "/codewithmushu.github.io/static/js/main.509ad676.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.825cd7ef.css",
+    "static/js/main.509ad676.js"
+  ]
+}
